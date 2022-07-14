@@ -1,0 +1,1 @@
+document.html.innerHTML='<h1>JS</h1>'
